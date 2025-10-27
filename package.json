@@ -1,0 +1,20 @@
+{
+  "name": "cloudflare-app",
+  "version": "1.0.0",
+  "description": "Building an AI powered chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run app",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolu1709/CloudFlare-APP.git"
+  },
+  "author": "Toluwanimi Oluwadayomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolu1709/CloudFlare-APP/issues"
+  },
+  "homepage": "https://github.com/Tolu1709/CloudFlare-APP#readme"
+}
